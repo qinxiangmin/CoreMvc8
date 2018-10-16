@@ -1,0 +1,301 @@
+DEBUG 2018-10-01 21:33:27,988 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-01 21:33:28,163 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2018-10-01 21:33:28,180 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.Web.Host.Startup.CoreMvc8WebHostModule, CoreMvc8.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,182 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8WebCoreModule, CoreMvc8.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8ApplicationModule, CoreMvc8.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8CoreModule, CoreMvc8.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,184 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.EntityFrameworkCore.CoreMvc8EntityFrameworkModule, CoreMvc8.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:28,191 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2018-10-01 21:33:28,275 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:33:28,275 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:33:28,275 [1    ] o.Configuration.LanguageManagementConfig - Converted CoreMvc8 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:33:28,275 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:33:28,609 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: CoreMvc8.EntityFrameworkCore.CoreMvc8DbContext, CoreMvc8.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:33:29,510 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-10-01 21:33:29,558 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-01 21:33:29,619 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-10-01 21:33:29,639 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: CoreMvc8
+DEBUG 2018-10-01 21:33:29,666 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-01 21:33:29,831 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-10-01 21:33:29,871 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2018-10-01 21:33:29,871 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2018-10-01 21:33:29,879 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Users.Dto.CreateUserDto
+DEBUG 2018-10-01 21:33:29,879 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Users.Dto.UserDto
+DEBUG 2018-10-01 21:33:29,880 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-10-01 21:33:29,880 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-10-01 21:33:29,880 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.CreateRoleDto
+DEBUG 2018-10-01 21:33:29,880 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.PermissionDto
+DEBUG 2018-10-01 21:33:29,880 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.RoleDto
+DEBUG 2018-10-01 21:33:29,881 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-10-01 21:33:29,881 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.MultiTenancy.Dto.TenantDto
+INFO  2018-10-01 21:33:33,734 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2018-10-01 21:33:33,734 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2018-10-01 21:33:33,812 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.2274ms 200 
+INFO  2018-10-01 21:33:37,226 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host)
+INFO  2018-10-01 21:33:38,243 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host) - Validation state: Valid
+INFO  2018-10-01 21:33:38,250 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.3256ms.
+INFO  2018-10-01 21:33:38,481 [6    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2018-10-01 21:33:38,493 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host) in 1262.6307ms
+INFO  2018-10-01 21:33:38,511 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2018-10-01 21:33:38,517 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4790.6143ms 302 
+INFO  2018-10-01 21:33:38,524 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 13.0685ms 301 
+INFO  2018-10-01 21:33:38,531 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2018-10-01 21:33:38,558 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 26.5346ms 200 text/html
+INFO  2018-10-01 21:33:38,580 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2018-10-01 21:33:38,582 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2018-10-01 21:33:38,586 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2018-10-01 21:33:38,593 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2018-10-01 21:33:38,596 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2018-10-01 21:33:38,657 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2018-10-01 21:33:38,659 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'D:\VCCORE\CoreMvc8\4.0.1\aspnet-core\src\CoreMvc8.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2018-10-01 21:33:38,661 [15   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'D:\VCCORE\CoreMvc8\4.0.1\aspnet-core\src\CoreMvc8.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2018-10-01 21:33:38,668 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 81.4449ms 200 application/javascript
+INFO  2018-10-01 21:33:38,675 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 68.0208ms 200 application/javascript
+INFO  2018-10-01 21:33:38,693 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 102.888ms 200 text/css
+INFO  2018-10-01 21:33:38,700 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2018-10-01 21:33:38,731 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 115.073ms 200 application/javascript
+INFO  2018-10-01 21:33:38,758 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2018-10-01 21:33:38,768 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 174.7477ms 200 application/javascript
+INFO  2018-10-01 21:33:39,308 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2018-10-01 21:33:39,367 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2018-10-01 21:33:39,371 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2018-10-01 21:33:39,374 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 6.029ms 200 image/png
+INFO  2018-10-01 21:33:39,380 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-16x16.png  
+INFO  2018-10-01 21:33:39,384 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+INFO  2018-10-01 21:33:39,388 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.9124ms 200 image/png
+INFO  2018-10-01 21:33:39,616 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 308.701ms 200 application/json;charset=utf-8
+INFO  2018-10-01 21:36:43,192 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetAllAsync  
+INFO  2018-10-01 21:36:43,239 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAllAsync", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application)
+INFO  2018-10-01 21:36:43,907 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application) with arguments (CoreMvc8.Books.Dto.PageInput, CoreMvc8.Books.Dto.SeachInput, CoreMvc8.Books.Dto.OrderInput) - Validation state: Valid
+INFO  2018-10-01 21:36:44,128 [28   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 219.1449ms.
+INFO  2018-10-01 21:36:44,163 [28   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:36:44,184 [28   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application) in 943.7301ms
+INFO  2018-10-01 21:36:44,187 [28   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 995.0381ms 200 application/json; charset=utf-8
+INFO  2018-10-01 21:36:44,206 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2018-10-01 21:36:44,209 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.812ms 404 
+INFO  2018-10-01 21:37:44,810 [27   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book  
+INFO  2018-10-01 21:37:44,813 [27   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 26.0101ms 404 
+INFO  2018-10-01 21:38:49,927 [49   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById  
+INFO  2018-10-01 21:38:49,933 [49   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetBookById", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application)
+INFO  2018-10-01 21:38:49,938 [49   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) with arguments (0) - Validation state: Valid
+INFO  2018-10-01 21:38:49,957 [49   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 16.5279ms.
+INFO  2018-10-01 21:38:49,967 [36   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:38:49,970 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) in 33.9108ms
+INFO  2018-10-01 21:38:49,976 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.237ms 200 application/json; charset=utf-8
+INFO  2018-10-01 21:39:33,602 [47   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById/5  
+INFO  2018-10-01 21:39:33,610 [47   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 13.127ms 404 
+INFO  2018-10-01 21:39:39,054 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById  
+INFO  2018-10-01 21:39:39,060 [46   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetBookById", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application)
+INFO  2018-10-01 21:39:39,064 [46   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) with arguments (0) - Validation state: Valid
+INFO  2018-10-01 21:39:39,067 [46   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.3721ms.
+INFO  2018-10-01 21:39:39,076 [46   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:39:39,079 [46   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) in 16.4539ms
+INFO  2018-10-01 21:39:39,081 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 27.6895ms 200 application/json; charset=utf-8
+INFO  2018-10-01 21:40:25,775 [47   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll  
+INFO  2018-10-01 21:40:25,783 [47   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing action CoreMvc8.Users.UserAppService.GetAll (CoreMvc8.Application)
+INFO  2018-10-01 21:40:25,970 [47   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Users.UserAppService.GetAll (CoreMvc8.Application) with arguments (Abp.Application.Services.Dto.PagedResultRequestDto) - Validation state: Valid
+WARN  2018-10-01 21:40:26,328 [48   ] Mvc.ExceptionHandling.AbpExceptionFilter - 当前用户没有登录到系统！
+Abp.Authorization.AbpAuthorizationException: 当前用户没有登录到系统！
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 43
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 98
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 57
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Nito.AsyncEx.Synchronous.TaskExtensions.WaitAndUnwrapException(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Abp.Authorization.AuthorizationInterceptor.Intercept(IInvocation invocation) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationInterceptor.cs:line 20
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Abp.Domain.Uow.UnitOfWorkInterceptor.PerformAsyncUow(IInvocation invocation, UnitOfWorkOptions options) in D:\Github\aspnetboilerplate\src\Abp\Domain\Uow\UnitOfWorkInterceptor.cs:line 78
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.UserAppServiceProxy.GetAll(PagedResultRequestDto input)
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+INFO  2018-10-01 21:40:26,340 [48   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:40:26,346 [48   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Users.UserAppService.GetAll (CoreMvc8.Application) in 558.6717ms
+INFO  2018-10-01 21:40:26,348 [48   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 573.7279ms 401 application/json; charset=utf-8
+DEBUG 2018-10-01 21:41:48,464 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-01 21:41:48,536 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2018-10-01 21:41:48,553 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.Web.Host.Startup.CoreMvc8WebHostModule, CoreMvc8.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8WebCoreModule, CoreMvc8.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8ApplicationModule, CoreMvc8.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8CoreModule, CoreMvc8.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.EntityFrameworkCore.CoreMvc8EntityFrameworkModule, CoreMvc8.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:48,561 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2018-10-01 21:41:48,623 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:41:48,623 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:41:48,623 [1    ] o.Configuration.LanguageManagementConfig - Converted CoreMvc8 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:41:48,623 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:41:48,924 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: CoreMvc8.EntityFrameworkCore.CoreMvc8DbContext, CoreMvc8.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:41:49,768 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-10-01 21:41:49,816 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-01 21:41:49,858 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-10-01 21:41:49,878 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: CoreMvc8
+DEBUG 2018-10-01 21:41:49,907 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-01 21:41:50,080 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-10-01 21:41:50,119 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2018-10-01 21:41:50,119 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2018-10-01 21:41:50,125 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Users.Dto.CreateUserDto
+DEBUG 2018-10-01 21:41:50,125 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Users.Dto.UserDto
+DEBUG 2018-10-01 21:41:50,125 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-10-01 21:41:50,126 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-10-01 21:41:50,126 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.CreateRoleDto
+DEBUG 2018-10-01 21:41:50,126 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.PermissionDto
+DEBUG 2018-10-01 21:41:50,126 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.RoleDto
+DEBUG 2018-10-01 21:41:50,126 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-10-01 21:41:50,126 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.MultiTenancy.Dto.TenantDto
+INFO  2018-10-01 21:41:53,972 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2018-10-01 21:41:53,972 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2018-10-01 21:41:54,051 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.893ms 200 
+INFO  2018-10-01 21:41:57,515 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host)
+INFO  2018-10-01 21:41:58,504 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host) - Validation state: Valid
+INFO  2018-10-01 21:41:58,511 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 1.912ms.
+INFO  2018-10-01 21:41:58,714 [6    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2018-10-01 21:41:58,727 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host) in 1207.0275ms
+INFO  2018-10-01 21:41:58,749 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2018-10-01 21:41:58,751 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4788.7541ms 302 
+INFO  2018-10-01 21:41:58,784 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 34.8398ms 200 text/html
+INFO  2018-10-01 21:41:58,799 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2018-10-01 21:41:58,802 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2018-10-01 21:41:58,804 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2018-10-01 21:41:58,828 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2018-10-01 21:41:58,830 [12   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2018-10-01 21:41:58,832 [14   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2018-10-01 21:41:58,837 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.0989ms 304 text/css
+INFO  2018-10-01 21:41:58,841 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.3594ms 304 application/javascript
+INFO  2018-10-01 21:41:58,844 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.6579ms 304 application/javascript
+INFO  2018-10-01 21:41:58,982 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2018-10-01 21:41:59,216 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 234.7028ms 200 application/json;charset=utf-8
+INFO  2018-10-01 21:42:12,550 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetAllAsync  
+INFO  2018-10-01 21:42:12,596 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAllAsync", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application)
+INFO  2018-10-01 21:42:13,256 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application) with arguments (CoreMvc8.Books.Dto.PageInput, CoreMvc8.Books.Dto.SeachInput, CoreMvc8.Books.Dto.OrderInput) - Validation state: Valid
+INFO  2018-10-01 21:42:13,477 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 219.2689ms.
+INFO  2018-10-01 21:42:13,519 [12   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:42:13,538 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application) in 940.7662ms
+INFO  2018-10-01 21:42:13,541 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 996.953ms 200 application/json; charset=utf-8
+INFO  2018-10-01 21:42:13,556 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2018-10-01 21:42:13,560 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3.4662ms 404 
+INFO  2018-10-01 21:44:04,813 [25   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById  
+INFO  2018-10-01 21:44:04,833 [25   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetBookById", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application)
+INFO  2018-10-01 21:44:04,842 [25   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) with arguments (0) - Validation state: Valid
+INFO  2018-10-01 21:44:04,863 [25   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 18.936ms.
+INFO  2018-10-01 21:44:04,873 [24   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:44:04,874 [24   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) in 39.8864ms
+INFO  2018-10-01 21:44:04,877 [24   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 63.5283ms 200 application/json; charset=utf-8
+INFO  2018-10-01 21:44:11,879 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById/7  
+INFO  2018-10-01 21:44:11,884 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5.5916ms 404 
+INFO  2018-10-01 21:44:18,513 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById  
+INFO  2018-10-01 21:44:18,519 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetBookById", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application)
+INFO  2018-10-01 21:44:18,523 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) with arguments (0) - Validation state: Valid
+INFO  2018-10-01 21:44:18,526 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.5462ms.
+INFO  2018-10-01 21:44:18,535 [10   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:44:18,537 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) in 16.0318ms
+INFO  2018-10-01 21:44:18,539 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 26.327ms 200 application/json; charset=utf-8
+DEBUG 2018-10-01 21:53:12,069 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-10-01 21:53:12,187 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2018-10-01 21:53:12,202 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.Web.Host.Startup.CoreMvc8WebHostModule, CoreMvc8.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,204 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8WebCoreModule, CoreMvc8.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,204 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8ApplicationModule, CoreMvc8.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,204 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.CoreMvc8CoreModule, CoreMvc8.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,205 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,205 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,205 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,205 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CoreMvc8.EntityFrameworkCore.CoreMvc8EntityFrameworkModule, CoreMvc8.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,206 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,207 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=3.8.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:12,209 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2018-10-01 21:53:12,276 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:53:12,276 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:53:12,276 [1    ] o.Configuration.LanguageManagementConfig - Converted CoreMvc8 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:53:12,276 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-10-01 21:53:12,572 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: CoreMvc8.EntityFrameworkCore.CoreMvc8DbContext, CoreMvc8.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-10-01 21:53:13,369 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-10-01 21:53:13,417 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-10-01 21:53:13,458 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-10-01 21:53:13,479 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: CoreMvc8
+DEBUG 2018-10-01 21:53:13,507 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-10-01 21:53:13,685 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-10-01 21:53:13,726 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2018-10-01 21:53:13,726 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2018-10-01 21:53:13,733 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Users.Dto.CreateUserDto
+DEBUG 2018-10-01 21:53:13,733 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Users.Dto.UserDto
+DEBUG 2018-10-01 21:53:13,734 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-10-01 21:53:13,734 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-10-01 21:53:13,734 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.CreateRoleDto
+DEBUG 2018-10-01 21:53:13,734 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.PermissionDto
+DEBUG 2018-10-01 21:53:13,734 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.Roles.Dto.RoleDto
+DEBUG 2018-10-01 21:53:13,735 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2018-10-01 21:53:13,735 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CoreMvc8.MultiTenancy.Dto.TenantDto
+INFO  2018-10-01 21:53:17,582 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2018-10-01 21:53:17,582 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2018-10-01 21:53:17,658 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 85.3787ms 200 
+INFO  2018-10-01 21:53:21,028 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host)
+INFO  2018-10-01 21:53:22,022 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host) - Validation state: Valid
+INFO  2018-10-01 21:53:22,028 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.936ms.
+INFO  2018-10-01 21:53:22,227 [14   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2018-10-01 21:53:22,239 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Web.Host.Controllers.HomeController.Index (CoreMvc8.Web.Host) in 1205.9637ms
+INFO  2018-10-01 21:53:22,257 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2018-10-01 21:53:22,259 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4688.6985ms 302 
+INFO  2018-10-01 21:53:22,294 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.0551ms 200 text/html
+INFO  2018-10-01 21:53:22,308 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2018-10-01 21:53:22,312 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2018-10-01 21:53:22,316 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2018-10-01 21:53:22,345 [6    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2018-10-01 21:53:22,347 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2018-10-01 21:53:22,349 [15   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2018-10-01 21:53:22,355 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 45.1873ms 304 application/javascript
+INFO  2018-10-01 21:53:22,359 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.9528ms 304 application/javascript
+INFO  2018-10-01 21:53:22,366 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 46.6414ms 304 text/css
+INFO  2018-10-01 21:53:22,499 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2018-10-01 21:53:22,782 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 283.4952ms 200 application/json;charset=utf-8
+INFO  2018-10-01 21:53:33,637 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetAllAsync  
+INFO  2018-10-01 21:53:33,684 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAllAsync", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application)
+INFO  2018-10-01 21:53:34,349 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application) with arguments (CoreMvc8.Books.Dto.PageInput, CoreMvc8.Books.Dto.SeachInput, CoreMvc8.Books.Dto.OrderInput) - Validation state: Valid
+INFO  2018-10-01 21:53:34,574 [13   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 222.7698ms.
+INFO  2018-10-01 21:53:34,614 [11   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:53:34,632 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetAllAsync (CoreMvc8.Application) in 945.7616ms
+INFO  2018-10-01 21:53:34,634 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 998.8115ms 200 application/json; charset=utf-8
+INFO  2018-10-01 21:53:34,648 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/favicon.ico  
+INFO  2018-10-01 21:53:34,652 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.9274ms 404 
+INFO  2018-10-01 21:54:22,856 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Book/GetBookById  
+INFO  2018-10-01 21:54:22,871 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetBookById", controller = "Book"}. Executing action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application)
+INFO  2018-10-01 21:54:22,887 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) with arguments () - Validation state: Valid
+INFO  2018-10-01 21:54:22,921 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 32.1968ms.
+INFO  2018-10-01 21:54:22,938 [10   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2018-10-01 21:54:22,946 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action CoreMvc8.Books.BookAppService.GetBookById (CoreMvc8.Application) in 72.4001ms
+INFO  2018-10-01 21:54:22,949 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 93.036ms 200 application/json; charset=utf-8
